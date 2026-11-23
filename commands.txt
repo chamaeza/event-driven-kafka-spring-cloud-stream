@@ -1,0 +1,7 @@
+COMMANDES WINDOWS (PowerShell) - voir DEMARRAGE-WINDOWS.md
+
+1. docker compose up -d
+2. .\mvnw.cmd spring-boot:run
+3. Ouvrir http://localhost:8090/
+4. Ouvrir http://localhost:8090/publish?name=P1&topic=T6
+5. docker compose down
